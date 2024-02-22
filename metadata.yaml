@@ -1,0 +1,32 @@
+_repo: Wahanen-Laulu-kirja_72965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Granlund, J. F.
+    gutenberg_agent_id: '56886'
+    url: http://www.gutenberg.org/2009/agents/56886
+description: ''
+gutenberg_issued: '2024-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72965'
+language: fi
+pgterms:marc905: 20240214001902various
+pgterms:marc906: '1864'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aTurku :$bJ. F. Granlund, $c1864.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wähänen Laulu-kirja
+url: http://www.gutenberg.org/ebooks/72965
